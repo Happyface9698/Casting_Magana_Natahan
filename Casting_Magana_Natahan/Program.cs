@@ -10,7 +10,8 @@
 
             Console.WriteLine("True or False, Programmers some times wish they had an extra finger!");
             bool isTrue = Convert.ToBoolean(Console.ReadLine());
-            Console.WriteLine("It is " + isTrue);
+            Console.WriteLine("It is " + isTrue + " sometimes.");
+
         }
     }
 }
